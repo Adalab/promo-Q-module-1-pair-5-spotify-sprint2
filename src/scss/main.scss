@@ -110,7 +110,7 @@
   
   /* benefits area */
   
-  .benefits-title {
+  /*.benefits-title {
     margin-top: 50px;
     text-align: center;
     font-size: 35px;
@@ -122,11 +122,11 @@
     align-items: flex-start;
     margin: 50px auto;
     max-width: 400px;
-  }
+  }*/
   
   /* benefit item */
   
-  .benefit {
+  /*.benefit {
     display: flex;
     align-items: left;
     padding: 10px;
@@ -140,7 +140,7 @@
   .benefit-title {
     font-size: 1.25rem;
     line-height: 25px;
-  }
+  }*/
   
   /* footer */
   
@@ -214,9 +214,6 @@
       max-width: 700px;
     }
   
-    .benefit {
-      width: 50%;
-    }
   
   
   @media all and (min-width: 1200px) {
